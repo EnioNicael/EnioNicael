@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 * Jest
 
 ## Contato
-instagran
+[Linkedin](https://www.linkedin.com/in/enio-nicael/)
+
+instagran 
 facebook
 email
 whatsapp
