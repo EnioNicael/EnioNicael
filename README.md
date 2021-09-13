@@ -17,30 +17,18 @@ Here are some ideas to get you started:
 ## Área de foco: Front-end, Back-end e FullStack
 
 ## Habilidades
-* HTML5
-* CSS3
-* Javascript
+
+### Frontend
+HTML5, CSS3, Javascript, Jest, React, Redux, ContextAPI e Hooks.
+
+### Backend
 * Banco de Dados: MySQL e Mongodb
-* Arquitetura de software: MSC
+* Arquitetura de software: MSC e MVC
+* NodeJS, Express, socket.io, JWT
+* Teste: Jest, Mocha, Chai e Sinon
+
+### Gerais
 * Metodologias Ágeis: Scrum e Kanbam
 * Deploy: Heroku e PM2
 * Git/Github
 * Linux
-
-### Frameworks e Bibliotecas
-* React, Redux, ContextAPI e Hooks
-* NodeJS, Express
-* Jest, Mocha, Chai e Sinon
-
-## Contato
-* [Linkedin](https://www.linkedin.com/in/enio-nicael/)
-* [Portifólio](https://enionicael.github.io/)
-* [Facebook](https://www.facebook.com/enio.nicael)
-* Email: enionicael@gmail.com
-
-## Portifólio
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnioNicael&theme=tokyonight)](https://github.com/EnioNicael/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnioNicael)](https://github.com/EnioNicael/github-readme-stats)
-
