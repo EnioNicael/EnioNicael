@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Área de foco: Front-end, Back-end e FullStack
 
 ## Habilidades
 
@@ -22,13 +21,10 @@ Here are some ideas to get you started:
 HTML5, CSS3, Javascript, Jest, React, Redux, ContextAPI e Hooks.
 
 ### Backend
-* Banco de Dados: MySQL e Mongodb
-* Arquitetura de software: MSC e MVC
-* NodeJS, Express, socket.io, JWT
-* Teste: Jest, Mocha, Chai e Sinon
+NodeJS, Express, socket.io, JWT, MySQL e Mongodb
+Arquitetura de software: MSC e MVC
+Testes: Jest, Mocha, Chai e Sinon
+Deploy: Heroku e PM2.
 
 ### Gerais
-* Metodologias Ágeis: Scrum e Kanbam
-* Deploy: Heroku e PM2
-* Git/Github
-* Linux
+Git/Github, Linux, Scrum e Kanbam.
